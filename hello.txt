@@ -22,3 +22,5 @@ hotfix branch modify
 github modify test
 
 ssh TEST
+
+ssh push TEST
